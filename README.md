@@ -1,1 +1,1 @@
-App: shireen-weather-app.herokuapp.com
+App: https://shireen-weather-app.herokuapp.com/
